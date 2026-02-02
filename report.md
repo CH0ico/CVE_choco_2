@@ -70,7 +70,8 @@ sqlmap -r vuln.txt --dbs
 ```
 
 <!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/43115229/1770029346669-ff99a88f-8035-4a5a-8afe-2367e9f55a9b.png)
+
+![](./assets/image.png)
 
 # Suggested repair
 1. **Employ prepared statements and parameter binding:**  
